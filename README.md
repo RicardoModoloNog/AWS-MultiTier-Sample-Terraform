@@ -12,6 +12,7 @@ Features
 ✅ Load Balancer Integration – Distributes traffic efficiently.
 ✅ Application Deployment – Automates EC2 instance provisioning.
 
+
 Infrastructure Components
 
 1. Networking
