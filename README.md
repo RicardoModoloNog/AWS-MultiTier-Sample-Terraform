@@ -7,9 +7,13 @@ This project deploys a multi-tier AWS infrastructure using Terraform. It include
 Features
 
 ✅ Modular Terraform Design – Easy to manage and extend.
+
 ✅ Scalable Network Setup – VPC, Subnets, and Routing.
+
 ✅ Security Best Practices – IAM roles, Security Groups, and least privilege access.
+
 ✅ Load Balancer Integration – Distributes traffic efficiently.
+
 ✅ Application Deployment – Automates EC2 instance provisioning.
 
 
